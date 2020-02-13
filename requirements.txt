@@ -1,0 +1,2 @@
+Click==7.0
+hurry.filesize==0.9
